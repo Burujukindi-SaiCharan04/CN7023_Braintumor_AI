@@ -1,0 +1,1 @@
+This folder contains results related to the class balancing , data pre processing , data cleaning etc.,
