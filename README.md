@@ -5,6 +5,7 @@
 # Student Name: Sai Charan Burujukindi
 # Student ID: 3018871
 
+
 # 1. Project Overview
 
 This project presents an explainable deep learning framework for classifying brain tumours using MRI images. The proposed system combines high-performance convolutional neural networks with interpretability using Grad-CAM. The model classifies MRI scans into four categories: glioma, meningioma, pituitary tumour, and no tumour. Explainability is critical in medical AI to ensure transparency and trust in clinical decision-making (Selvaraju et al., 2017).
@@ -12,6 +13,9 @@ This project presents an explainable deep learning framework for classifying bra
 # 2. Dataset Description
 
 The dataset used is the Brain Tumor MRI dataset obtained from Kaggle. It contains a total of 7200 images, with 5600 training images and 1600 testing images. Each class (glioma, meningioma, pituitary, and no tumour) contains 1800 images, ensuring a perfectly balanced dataset. The images are primarily of size 512×512 pixels, and all are stored in JPG format.
+
+# Data Source Link :
+# https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 # 3. Data Preprocessing
 
